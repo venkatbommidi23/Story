@@ -1,1 +1,1 @@
-This is chapter3 which is also alien
+This is 3rd story that is merged from branch alien.
